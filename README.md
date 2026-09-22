@@ -24,7 +24,6 @@ I focus on developing practical technical skills through projects, labs, and han
 * Linux / Ubuntu
 * VirtualBox
 * Git & GitHub
-* Java
 * Python
 
 ### Projects
@@ -36,6 +35,7 @@ I am currently building and documenting practical projects involving:
 * DHCP and routing
 * Network security and ACLs
 * Linux server environments
+* Windows server enviroments
 * IoT networks
 * Virtualized client-server environments
 
